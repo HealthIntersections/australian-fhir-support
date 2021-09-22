@@ -32,9 +32,9 @@
   ],
   "copyright": "Creative Commons 0",
   "group": [{
-    "source": "http://hl7.org/fhir/sid/cvx",
-    "target": "https://www.humanservices.gov.au/organisations/health-professionals/enablers/air-vaccine-code-formats",
-    "targetVersion" : "20210222",
+    "source": "https://www.humanservices.gov.au/organisations/health-professionals/enablers/air-vaccine-code-formats",
+    "sourceVersion" : "20210222",
+    "target": "http://hl7.org/fhir/sid/cvx",
     "element": [
       {
         "code": "COVAST",
@@ -71,9 +71,9 @@
       }
     ]
   }, {
-    "source": "https://www.humanservices.gov.au/organisations/health-professionals/enablers/air-vaccine-code-formats",
-    "sourceVersion" : "20210222",
-    "target": "http://hl7.org/fhir/sid/cvx",
+    "source": "http://hl7.org/fhir/sid/cvx",
+    "target": "https://www.humanservices.gov.au/organisations/health-professionals/enablers/air-vaccine-code-formats",
+    "targetVersion" : "20210222",
     "element": [
       {
         "code": "210",
